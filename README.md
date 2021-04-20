@@ -47,7 +47,7 @@ python3 main.py
 * `TO_CHANNEL` Your Channel ID eg:- -100xxxxxxxx
 * `CAPTION` If you want to add a caption to the forwarded file, enter it here
 * `FILTER_TYPE` Enter Filter type eg:- document or audio or photo or empty
-* `SKIP_NO` Enter File Skiping Number default number '0'
+* `SKIP_NO` Enter File Skiping Number default number '0' 
 * `SESSION` Enter Pyrogram session string [String Generator](https://replit.com/@JijinR/PyroSessionString)
 
 
