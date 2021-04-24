@@ -1,5 +1,4 @@
 # Auto-File-Forward-Bot
-
 <p align="center">
   <a href="https://github.com/Jijinr/Frwdit/stargazers">
     <img src="https://img.shields.io/github/stars/Jijinr/Frwdit?style=social">
