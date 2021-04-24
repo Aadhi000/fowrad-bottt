@@ -1,15 +1,4 @@
 # Auto-File-Forward-Bot
-<p align="center">
-  <a href="https://github.com/Jijinr/Frwdit/stargazers">
-    <img src="https://img.shields.io/github/stars/Jijinr/Frwdit?style=social">
-
-  </a>
-  
-  <a href="https://github.com/Jijinr/Frwdit/fork">
-    <img src="https://img.shields.io/github/forks/Jijinr/Frwdit?label=Fork&style=social">
-
-  </a>  
-</p>
 
 Auto file forward bot.
 Without Admin Permission in FROM_CHANNEL
@@ -25,7 +14,9 @@ Copyright permission under GNU GENERAL PUBLIC LICENSE
 ### Deploy on Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jijinr/Frwdit)
 
+## HOW TO DEPLOY YOUTUBE TUTORIAL
 
+<a href="https://youtu.be/xufAzeTLRIs"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
 Deploy in your vps
 ```sh
