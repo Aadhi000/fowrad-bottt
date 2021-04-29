@@ -6,7 +6,7 @@ class Translation(object):
 <i>I'm Simple Auto file Forward Bot
 This Bot forward all files to One Public channel to Your Personal channel
 More details /help</i>"""
-  CAPTION = "<code>{}</code>\n\n" + str(Config.CAPTION)
+  CAPTION = "`{}`\n\n" + str(Config.CAPTION)
   HELP_TXT = """<b>Follow These Steps!!</b>
 <b>• Currectly fill your Heroku Config vars</b> <code>FROM_CHANNEL</code> and <code>TO_CHANNEL</code> <b>and other Vars</b>
 <b>• Then give admin permission in your personal telegram channel</b>
