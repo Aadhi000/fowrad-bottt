@@ -49,6 +49,15 @@ async def run(bot, message):
             await asyncio.sleep(1)
         except FloodWait as e:
             await asyncio.sleep(e.x)
+            await bot.copy_message(
+                chat_id=TO,
+                from_chat_id=FROM,
+                parse_mode="md",       
+                caption=Translation.CAPTION.format(file_name),
+                message_id=message.message_id
+            )
+            files_count += 1
+            await asyncio.sleep(1)
         except Exception as e:
             print(e)
             pass
