@@ -1,4 +1,5 @@
 # Auto-File-Forward-Bot
+Join @fandzmoviecollection 
 
 Auto file forward bot.
 Without Admin Permission in FROM_CHANNEL
